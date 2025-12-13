@@ -29,7 +29,7 @@ I enjoy building data-driven solutions and transforming raw data into insights.
 
 ## 📫 Contact  
 📧 Email: pandeygp23@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/gaurav-pandey  
+🔗 LinkedIn: www.linkedin.com/in/gaurav-pandey-528381238 
 🐙 GitHub: https://github.com/Gauravgp14  
 📱 Phone: +91 8126717365  
 
